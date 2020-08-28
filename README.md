@@ -4,21 +4,21 @@
 
 ### Repositories
 
-<a href="https://github.com/Aghajari/AXEmojiView"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=AXEmojiView" alt="AXEmojiView" /></a>
-
-<a href="https://github.com/Aghajari/ZoomHelper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=ZoomHelper" alt="ZoomHelper" /></a>
-
-<a href="https://github.com/Aghajari/AXVideoTimelineView"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=AXVideoTimelineView" alt="AXVideoTimelineView" /></a>
-
-<!--
 |Name|Description|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [AXEmojiView](https://github.com/Aghajari/AXEmojiView)           |<a href="https://github.com/Aghajari/AXEmojiView"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=AXEmojiView" alt="AXEmojiView" /></a>|
-| [ZoomHelper](https://github.com/Aghajari/ZoomHelper)           |<a href="https://github.com/Aghajari/ZoomHelper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=ZoomHelper" alt="ZoomHelper" /></a>|
-| [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)           |<a href="https://github.com/Aghajari/AXVideoTimelineView"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=AXVideoTimelineView" alt="AXVideoTimelineView" /></a>|
--->
+| [AXEmojiView](https://github.com/Aghajari/AXEmojiView)           |an advanced library which adds emoji,sticker,... support to your Android application|
+| [ZoomHelper](https://github.com/Aghajari/ZoomHelper)           |ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
+| [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)           | Video cropper view for Android |
+
+<br><br>
+<div align="center">
+  <img width="64" alt="LCoders | AmirHosseinAghajari" src="https://user-images.githubusercontent.com/30867537/90538314-a0a79200-e193-11ea-8d90-0a3576e28a18.png">
+  <br><a>Amir Hossein Aghajari</a> • <a href="mailto:amirhossein.aghajari.82@gmail.com">Email</a> • <a href="https://github.com/Aghajari">GitHub</a>
+</div>
 
 <!--
+<a href="https://github.com/Aghajari/ZoomHelper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=ZoomHelper" alt="ZoomHelper" /></a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

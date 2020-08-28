@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Aghajari">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aghajari&show_icons=true&line_height=27&count_private=false&title_color=82ADD9&text_color=c9cacc&icon_color=82ADD9&bg_color=30,1E2632,232D3A&hide=contribs,prs" alt="Aghajari" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aghajari&show_icons=true&line_height=27&count_private=false&title_color=F9E04B&text_color=ffffff&icon_color=F9E04B&bg_color=1C4768&hide=contribs,prs" alt="Aghajari" />
 </a></div>
 
 ### Repositories

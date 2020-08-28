@@ -3,9 +3,9 @@
 ### Repositories
 |Name|Description|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [AXEmojiView](https://github.com/Aghajari/AXEmojiView)           |an advanced library which adds emoji,sticker,... support to your Android application|
-| [ZoomHelper](https://github.com/Aghajari/ZoomHelper)           |ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
-| [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)           | Video cropper view for Android |
+| [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|an advanced library which adds emoji,sticker,... support to your Android application|
+| [ZoomHelper](https://github.com/Aghajari/ZoomHelper)|ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
+| [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)| Video cropper view for Android |
 
 <br>
 <div align="center">

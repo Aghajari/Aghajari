@@ -1,10 +1,16 @@
-### Hi there 👋
+<a href="https://github.com/Aghajari">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aghajari&show_icons=true&line_height=27&count_private=false&title_color=82ADD9&text_color=c9cacc&icon_color=82ADD9&bg_color=30,1E2632,232D3A&hide=contribs,prs" alt="Aghajari" />
+</a>
+
+### Repositories
+|Name|Description|
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [AXEmojiView](https://github.com/Aghajari/AXEmojiView)           |<a href="https://github.com/Aghajari/AXEmojiView"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=AXEmojiView" alt="AXEmojiView" /></a>|
+| [ZoomHelper](https://github.com/Aghajari/ZoomHelper)           |<a href="https://github.com/Aghajari/ZoomHelper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=ZoomHelper" alt="ZoomHelper" /></a>|
+| [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)           |<a href="https://github.com/Aghajari/AXVideoTimelineView"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=AXVideoTimelineView" alt="AXVideoTimelineView" /></a>|
+
 
 <!--
-**Aghajari/Aghajari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

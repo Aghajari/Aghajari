@@ -9,6 +9,7 @@
 | [iAXLayouts](https://github.com/Aghajari/iAXLayouts-iOSLayouts)|Let's include Android Layouts into iOS! LinearLayout-FrameLayout-RelativeLayout-ArcLayout|
 | [iAXMaterialProgress](https://github.com/Aghajari/iAXMaterialProgress)|A material style progress wheel for iOS|
 | [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)| Video cropper view for Android |
+| [ChemicalEducationBalancer](https://github.com/Aghajari/ChemicalEducationBalancer)|A Java library for parsing and balancing chemical equations.|
 
 <br>
 <div align="center">

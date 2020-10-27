@@ -19,7 +19,7 @@
 ### Others
 |Name|Description|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [GaussJordanEliminate](https://github.com/Aghajari/GaussJordanEliminate)|A simple java class for the Gauss Jordan Elimination algorithm|
+| [GaussJordanEliminate](https://github.com/Aghajari/GaussJordanEliminate)|A simple java/swift class for the Gauss Jordan Elimination algorithm|
 | [ChemicalEducationBalancer](https://github.com/Aghajari/ChemicalEducationBalancer)|A Java library for parsing and balancing chemical equations.|
 
 <br>

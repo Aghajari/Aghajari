@@ -6,8 +6,6 @@
 | [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|an advanced library which adds emoji,sticker,... support to your Android application|
 | [ZoomHelper](https://github.com/Aghajari/ZoomHelper)|ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
 | [AXrLottie](https://github.com/Aghajari/AXrLottie)|AXrLottie Renders animations and vectors exported in the bodymovin JSON format. (Using rLottie)|
-| [iAXLayouts](https://github.com/Aghajari/iAXLayouts-iOSLayouts)|Let's include Android Layouts into iOS! LinearLayout-FrameLayout-RelativeLayout-ArcLayout|
-| [iAXMaterialProgress](https://github.com/Aghajari/iAXMaterialProgress)|A material style progress wheel for iOS|
 | [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)| Video cropper view for Android |
 
 ### iOS

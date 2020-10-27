@@ -1,6 +1,6 @@
 <a href="https://github.com/Aghajari"><img alt="LCoders | AmirHosseinAghajari" src="https://user-images.githubusercontent.com/30867537/91563048-7738f400-e953-11ea-89f9-5d0f42deda8f.jpg"></a>
 
-### Repositories
+### Android
 |Name|Description|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|an advanced library which adds emoji,sticker,... support to your Android application|
@@ -9,6 +9,15 @@
 | [iAXLayouts](https://github.com/Aghajari/iAXLayouts-iOSLayouts)|Let's include Android Layouts into iOS! LinearLayout-FrameLayout-RelativeLayout-ArcLayout|
 | [iAXMaterialProgress](https://github.com/Aghajari/iAXMaterialProgress)|A material style progress wheel for iOS|
 | [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)| Video cropper view for Android |
+
+### iOS
+|Name|Description|
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [iAXLayouts](https://github.com/Aghajari/iAXLayouts-iOSLayouts)|Let's include Android Layouts into iOS! LinearLayout-FrameLayout-RelativeLayout-ArcLayout|
+| [iAXMaterialProgress](https://github.com/Aghajari/iAXMaterialProgress)|A material style progress wheel for iOS|
+
+### Others
+| [GaussJordanEliminate](https://github.com/Aghajari/GaussJordanEliminate)|A simple java class for the Gauss Jordan Elimination algorithm|
 | [ChemicalEducationBalancer](https://github.com/Aghajari/ChemicalEducationBalancer)|A Java library for parsing and balancing chemical equations.|
 
 <br>

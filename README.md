@@ -4,6 +4,7 @@
 |Name|Description|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|an advanced library which adds emoji,sticker,... support to your Android application|
+| [AXMemojiView](https://github.com/Aghajari/AXMemojiView)|a new page for AXEmojiView which shows memoji just like stickers|
 | [ZoomHelper](https://github.com/Aghajari/ZoomHelper)|ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
 | [AXrLottie](https://github.com/Aghajari/AXrLottie)|AXrLottie Renders animations and vectors exported in the bodymovin JSON format. (Using rLottie)|
 | [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)| Video cropper view for Android |

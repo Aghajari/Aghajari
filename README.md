@@ -3,6 +3,7 @@
 ### Android
 |Name|Description|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [AXPowerView](https://github.com/Aghajari/AXPowerView)|an Android PowerView with awesome animations and circular loading, Inspired by HotspotShieldVPN|
 | [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|an advanced library which adds emoji,sticker,... support to your Android application|
 | [AXMemojiView](https://github.com/Aghajari/AXMemojiView)|a new page for AXEmojiView which shows memoji just like stickers|
 | [ZoomHelper](https://github.com/Aghajari/ZoomHelper)|ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|

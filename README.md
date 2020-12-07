@@ -22,15 +22,15 @@
 | [GaussJordanEliminate](https://github.com/Aghajari/GaussJordanEliminate)|A simple java/swift class for the Gauss Jordan Elimination algorithm|
 | [ChemicalEducationBalancer](https://github.com/Aghajari/ChemicalEducationBalancer)|A Java library for parsing and balancing chemical equations.|
 
+### <img width="64" alt="LCoders | AmirHosseinAghajari" src="https://user-images.githubusercontent.com/30867537/90538314-a0a79200-e193-11ea-8d90-0a3576e28a18.png"> AmirHosseinAghajari
 <br>
-<div align="center">
+<div align="right">
 <a href="https://github.com/Aghajari">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aghajari&show_icons=true&line_height=27&count_private=false&title_color=F9E04B&text_color=ffffff&icon_color=F9E04B&bg_color=1C4768&hide=contribs,prs" alt="Aghajari" />
-</a></div>
-<br>
-<div align="center">
-  <img width="64" alt="LCoders | AmirHosseinAghajari" src="https://user-images.githubusercontent.com/30867537/90538314-a0a79200-e193-11ea-8d90-0a3576e28a18.png">
-  <br><a>Amir Hossein Aghajari</a> • <a href="mailto:amirhossein.aghajari.82@gmail.com">Email</a> • <a href="https://t.me/KingAmir272">Telegram</a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aghajari&show_icons=true&line_height=27&count_private=false&title_color=F9E04B&text_color=ffffff&icon_color=F9E04B&bg_color=1C4768&hide=contribs,prs" alt="Aghajari" />
+</a>
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/amirhossein_aghajari/)
+[![amirhossein.aghajari.82@gmail.com](https://img.shields.io/static/v1?label=amir.aghajari&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:amirhossein.aghajari.82@gmail.com)
+  
 </div>
 
 <!--

@@ -29,11 +29,18 @@
 </a>
 </div>
 
+<div align="left">
+  <div align="center">
+   <img width="64" alt="LCoders | AmirHosseinAghajari" src="https://user-images.githubusercontent.com/30867537/90538314-a0a79200-e193-11ea-8d90-0a3576e28a18.png">
+    <br>
+    <b>AmirHosseinAghajari</b>
+  </div>
   
-### <img width="28" alt="LCoders | AmirHosseinAghajari" src="https://user-images.githubusercontent.com/30867537/90538314-a0a79200-e193-11ea-8d90-0a3576e28a18.png"> AmirHosseinAghajari
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/amirhossein_aghajari/)
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=%20&color=orange&logo=Telegram&style=flat-square&logoColor=white)](https://t.me/LCoders/)
 [![amirhossein.aghajari.82@gmail.com](https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:amirhossein.aghajari.82@gmail.com)
+</div>
+
 
 <!--
 <a href="https://github.com/Aghajari/ZoomHelper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=ZoomHelper" alt="ZoomHelper" /></a>

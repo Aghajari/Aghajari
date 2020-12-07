@@ -36,12 +36,11 @@
     <b>AmirHosseinAghajari</b>
     <br>
     <br>
-    <a href="https://www.instagram.com/amirhossein_aghajari/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=for-the-badge&logoColor=white"></a>
-    <a href="https://t.me/LCoders/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=for-the-badge&logoColor=white"></a>
-    <a href="mailto:amirhossein.aghajari.82@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=for-the-badge&logoColor=white"></a>
+    <a href="https://www.instagram.com/amirhossein_aghajari/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&flat-square&logoColor=white"></a>
+    <a href="https://t.me/LCoders/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
+    <a href="mailto:amirhossein.aghajari.82@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
   </div>
 </div>
-
 
 <!--
 <a href="https://github.com/Aghajari/ZoomHelper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=ZoomHelper" alt="ZoomHelper" /></a>

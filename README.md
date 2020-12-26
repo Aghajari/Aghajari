@@ -3,6 +3,7 @@
 ### Android
 |Name|Description|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [AXSpannableText](https://github.com/Aghajari/AXSpannableText)|Supports Hashtag(#), Mention(@), URLs, Phone, Email, Markdown,...in all TextView widgets|
 | [AXPowerView](https://github.com/Aghajari/AXPowerView)|an Android PowerView with awesome animations and circular loading, Inspired by HotspotShieldVPN|
 | [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|an advanced library which adds emoji,sticker,... support to your Android application|
 | [AXMemojiView](https://github.com/Aghajari/AXMemojiView)|a new page for AXEmojiView which shows memoji just like stickers|

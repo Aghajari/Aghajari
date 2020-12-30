@@ -3,6 +3,7 @@
 ### Android
 |Name|Description|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [AXWaveAnimation](https://github.com/Aghajari/AXWaveAnimation)|Wave animation or a Bubble animation for recording or playing audio using the amplitude of the voice|
 | [AXSpannableText](https://github.com/Aghajari/AXSpannableText)|Supports Hashtag(#), Mention(@), URLs, Phone, Email, Markdown,...in all TextView widgets|
 | [AXPowerView](https://github.com/Aghajari/AXPowerView)|an Android PowerView with awesome animations and circular loading, Inspired by HotspotShieldVPN|
 | [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|an advanced library which adds emoji,sticker,... support to your Android application|

@@ -13,16 +13,16 @@
 | [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)|1.0.0| Video cropper view for Android |
 
 ### iOS
-|Name|Description|
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [iAXLayouts](https://github.com/Aghajari/iAXLayouts-iOSLayouts)|Let's include Android Layouts into iOS! LinearLayout-FrameLayout-RelativeLayout-ArcLayout|
-| [iAXMaterialProgress](https://github.com/Aghajari/iAXMaterialProgress)|A material style progress wheel for iOS|
+|Name|Version|Description|
+| ---------------- | ---------------- | ---------------- |
+| [iAXLayouts](https://github.com/Aghajari/iAXLayouts-iOSLayouts)|1.0.0|Let's include Android Layouts into iOS! LinearLayout-FrameLayout-RelativeLayout-ArcLayout|
+| [iAXMaterialProgress](https://github.com/Aghajari/iAXMaterialProgress)|1.0.0|A material style progress wheel for iOS|
 
 ### Others
-|Name|Description|
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [GaussJordanEliminate](https://github.com/Aghajari/GaussJordanEliminate)|A simple java/swift class for the Gauss Jordan Elimination algorithm|
-| [ChemicalEducationBalancer](https://github.com/Aghajari/ChemicalEducationBalancer)|A Java library for parsing and balancing chemical equations.|
+|Name|Version|Description|
+| ---------------- | ---------------- | ---------------- |
+| [GaussJordanEliminate](https://github.com/Aghajari/GaussJordanEliminate)|1.0.0|A simple java/swift class for the Gauss Jordan Elimination algorithm|
+| [ChemicalEducationBalancer](https://github.com/Aghajari/ChemicalEducationBalancer)|1.0.0|A Java library for parsing and balancing chemical equations.|
 
 <br>
 <div align="right">

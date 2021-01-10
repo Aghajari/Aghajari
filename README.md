@@ -2,7 +2,8 @@
 
 ### Android
 |Name|Version|Description|
-| ---------------- | ---------------- | ---------------- |
+| :---------------- | :----------------: | :---------------- |
+| [AXGraphView](https://github.com/Aghajari/AXGraphView)|1.0.0|AXGraphView creates zoomable and scrollable graphs.|
 | [AXWaveAnimation](https://github.com/Aghajari/AXWaveAnimation)|1.0.0|Wave/Bubble animation for recording or playing audio using the amplitude of the voice|
 | [AXSpannableText](https://github.com/Aghajari/AXSpannableText)|1.0.0|Supports Hashtag(#), Mention(@), URLs, Phone, Email, Markdown,...in all TextView widgets|
 | [AXPowerView](https://github.com/Aghajari/AXPowerView)|1.0.0|an Android PowerView with awesome animations and circular loading|
@@ -14,13 +15,13 @@
 
 ### iOS
 |Name|Version|Description|
-| ---------------- | ---------------- | ---------------- |
+| :---------------- | :----------------: | :---------------- |
 | [iAXLayouts](https://github.com/Aghajari/iAXLayouts-iOSLayouts)|1.0.0|Let's include Android Layouts into iOS! LinearLayout-FrameLayout-RelativeLayout-ArcLayout|
 | [iAXMaterialProgress](https://github.com/Aghajari/iAXMaterialProgress)|1.0.0|A material style progress wheel for iOS|
 
 ### Others
 |Name|Version|Description|
-| ---------------- | ---------------- | ---------------- |
+| :---------------- | :----------------: | :---------------- |
 | [GaussJordanEliminate](https://github.com/Aghajari/GaussJordanEliminate)|1.0.0|A simple java/swift class for the Gauss Jordan Elimination algorithm|
 | [ChemicalEducationBalancer](https://github.com/Aghajari/ChemicalEducationBalancer)|1.0.0|A Java library for parsing and balancing chemical equations.|
 

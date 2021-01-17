@@ -11,7 +11,6 @@
 | [AXMemojiView](https://github.com/Aghajari/AXMemojiView)|1.0.3|a new page for AXEmojiView which shows memoji just like stickers|
 | [ZoomHelper](https://github.com/Aghajari/ZoomHelper)|1.0.1|ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
 | [AXrLottie](https://github.com/Aghajari/AXrLottie)|1.0.3|AXrLottie ([rlottie](https://github.com/Samsung/rlottie)) Renders animations and vectors exported in the bodymovin JSON format.|
-| [AXVideoTimelineView](https://github.com/Aghajari/AXVideoTimelineView)|1.0.0| Video cropper view for Android |
 
 ### iOS
 |Name|Version|Description|

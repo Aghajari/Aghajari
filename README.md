@@ -9,7 +9,7 @@
 | [AXPowerView](https://github.com/Aghajari/AXPowerView)|1.0.0|an Android PowerView with awesome animations and circular loading|
 | [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|1.3.0|an advanced library which adds emoji,sticker,... support to your Android application|
 | [AXMemojiView](https://github.com/Aghajari/AXMemojiView)|1.0.3|a new page for AXEmojiView which shows memoji just like stickers|
-| [ZoomHelper](https://github.com/Aghajari/ZoomHelper)|1.0.1|ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
+| [ZoomHelper](https://github.com/Aghajari/ZoomHelper)|1.0.2|ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
 | [AXrLottie](https://github.com/Aghajari/AXrLottie)|1.0.3|AXrLottie ([rlottie](https://github.com/Samsung/rlottie)) Renders animations and vectors exported in the bodymovin JSON format.|
 
 ### iOS

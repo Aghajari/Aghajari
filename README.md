@@ -11,9 +11,9 @@
 | [AXSpannableText](https://github.com/Aghajari/AXSpannableText)|1.0.0|Supports Hashtag(#), Mention(@), URLs, Phone, Email, Markdown,...in all TextView widgets|
 | [AXPowerView](https://github.com/Aghajari/AXPowerView)|1.0.0|an Android PowerView with awesome animations and circular loading|
 | [ZoomHelper](https://github.com/Aghajari/ZoomHelper)|1.0.2|ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
-| [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|1.3.0|an advanced library which adds emoji,sticker,... support to your Android application|
-| [AXMemojiView](https://github.com/Aghajari/AXMemojiView)|1.0.3|a new page for AXEmojiView which shows memoji just like stickers|
-| [AXrLottie](https://github.com/Aghajari/AXrLottie)|1.1.0|AXrLottie ([rlottie](https://github.com/Samsung/rlottie)) Renders animations and vectors exported in the bodymovin JSON format.|
+| [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|1.4.0|an advanced library which adds emoji,sticker,... support to your Android application|
+| [AXMemojiView](https://github.com/Aghajari/AXMemojiView)|1.1.0|a new page for AXEmojiView which shows memoji just like stickers|
+| [AXrLottie](https://github.com/Aghajari/AXrLottie)|1.2.0|AXrLottie ([rlottie](https://github.com/Samsung/rlottie)) Renders animations and vectors exported in the bodymovin JSON format.|
 | [AXWaveAnimation](https://github.com/Aghajari/AXWaveAnimation)|1.0.0|Wave/Bubble animation for recording or playing audio using the amplitude of the voice|
 
 ### iOS

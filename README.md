@@ -1,5 +1,7 @@
 <a href="https://github.com/Aghajari"><img alt="LCoders | AmirHosseinAghajari" src="https://user-images.githubusercontent.com/30867537/91563048-7738f400-e953-11ea-89f9-5d0f42deda8f.jpg"></a>
 
+[![Join the chat at https://gitter.im/Aghajari/community](https://badges.gitter.im/Aghajari/community.svg)](https://gitter.im/Aghajari/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Android
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |

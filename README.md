@@ -3,6 +3,7 @@
 ### Android
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
+| [AXAnimation](https://github.com/Aghajari/AXAnimation)|1.0.1|AXAnimation is an Android Library which can simply animate views and everything!|
 | [AXParallelImageView](https://github.com/Aghajari/AXParallelImageView)|1.0.0|Parallel Line Collage ImageView.|
 | [AXGraphView](https://github.com/Aghajari/AXGraphView)|1.0.2|AXGraphView creates zoomable and scrollable graphs.|
 | [AXSpannableText](https://github.com/Aghajari/AXSpannableText)|1.0.0|Supports Hashtag(#), Mention(@), URLs, Phone, Email, Markdown,...in all TextView widgets|

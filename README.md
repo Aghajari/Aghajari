@@ -25,6 +25,7 @@
 ### Others
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
+| [JSSoup (node.js)](https://github.com/Aghajari/JSSoup)|1.0.0|Fast and reliable HTML DOM parser library for JavaScript, node.js.|
 | [AndroidDirectoryAccess](https://github.com/Aghajari/AndroidDirectoryAccess)|1.0.0|Android/{data,obb} directory access for Android >= 11 without root.|
 | [GaussJordanEliminate](https://github.com/Aghajari/GaussJordanEliminate)|1.0.0|A simple java/swift class for the Gauss Jordan Elimination algorithm|
 | [ChemicalEducationBalancer](https://github.com/Aghajari/ChemicalEducationBalancer)|1.0.0|A Java library for parsing and balancing chemical equations.|

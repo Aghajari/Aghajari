@@ -32,11 +32,11 @@
 | [ChemicalEducationBalancer](https://github.com/Aghajari/ChemicalEducationBalancer)|1.0.0|A Java library for parsing and balancing chemical equations.|
 
 <br>
-<div align="right">
-<a href="https://github.com/Aghajari">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aghajari&show_icons=true&line_height=27&count_private=false&title_color=F9E04B&text_color=ffffff&icon_color=F9E04B&bg_color=1C4768&hide=contribs,prs" alt="Aghajari" />
-</a>
-</div>
+
+| <a href="https://github.com/Aghajari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aghajari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=1C4768" alt="Aghajari's github stats" /></a> | <a href="https://github.com/Aghajari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghajari&layout=compact&theme=buefy&hide_border=true&title_color=1C4768&langs_count=10&hide=cmake,assembly,meson" /></a> |
+| ------------- | ------------- |
+
+
 
 <div align="left">
   <div align="center">
@@ -52,6 +52,12 @@
 </div>
 
 <!--
+<div align="right">
+<a href="https://github.com/Aghajari">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aghajari&show_icons=true&line_height=27&count_private=false&title_color=F9E04B&text_color=ffffff&icon_color=F9E04B&bg_color=1C4768&hide=contribs,prs" alt="Aghajari" />
+</a>
+</div>
+
 <a href="https://github.com/Aghajari/ZoomHelper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=aghajari&repo=ZoomHelper" alt="ZoomHelper" /></a>
 
 - 🔭 I’m currently working on ...

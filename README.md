@@ -60,7 +60,7 @@
     <br>
     <a href="https://www.instagram.com/amirhossein_aghajari/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&flat-square&logoColor=white"></a>
     <a href="https://t.me/LCoders/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
-    <a href="mailto:amirhossein.aghajari.82@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
+    <a href="mailto:amirhossein.aghajari.82@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a> <img  src="https://komarev.com/ghpvc/?username=Aghajari&color=1C4768" />
   </div>
 </div>
 

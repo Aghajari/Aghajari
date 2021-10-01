@@ -2,7 +2,9 @@
 
 [![Join the chat at https://gitter.im/Aghajari/community](https://badges.gitter.im/Aghajari/community.svg)](https://gitter.im/Aghajari/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### Android
+<details><summary><b>Android</b></summary>
+<p>
+  
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
 | [AXAnimation](https://github.com/Aghajari/AXAnimation)|1.0.1|AXAnimation is an Android Library which can simply animate views and everything!|
@@ -16,13 +18,19 @@
 | [AXPowerView](https://github.com/Aghajari/AXPowerView)|1.0.0|an Android PowerView with awesome animations and circular loading|
 | [AXWaveAnimation](https://github.com/Aghajari/AXWaveAnimation)|1.0.0|Wave/Bubble animation for recording or playing audio using the amplitude of the voice|
 
-### iOS
+</p></details>
+  
+<details><summary><b>iOS</b></summary>
+  
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
 | [iAXLayouts](https://github.com/Aghajari/iAXLayouts-iOSLayouts)|1.0.0|Let's include Android Layouts into iOS! LinearLayout-FrameLayout-RelativeLayout-ArcLayout|
 | [iAXMaterialProgress](https://github.com/Aghajari/iAXMaterialProgress)|1.0.0|A material style progress wheel for iOS|
 
-### Others
+</p></details>
+
+<details><summary><b>Others</b></summary>
+  
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
 | [InspectElement](https://github.com/Aghajari/InspectElement)|---|Inspection tools for native android apps (Practice)|
@@ -31,6 +39,8 @@
 | [AndroidDirectoryAccess](https://github.com/Aghajari/AndroidDirectoryAccess)|1.0.0|Android/{data,obb} directory access for Android >= 11 without root.|
 | [GaussJordanEliminate](https://github.com/Aghajari/GaussJordanEliminate)|1.0.0|A simple java/swift class for the Gauss Jordan Elimination algorithm|
 | [ChemicalEducationBalancer](https://github.com/Aghajari/ChemicalEducationBalancer)|1.0.0|A Java library for parsing and balancing chemical equations.|
+
+</p></details>
 
 <br>
 

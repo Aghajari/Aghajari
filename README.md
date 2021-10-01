@@ -21,6 +21,7 @@
 </p></details>
   
 <details><summary><b>iOS</b></summary>
+<p>
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
@@ -30,6 +31,7 @@
 </p></details>
 
 <details><summary><b>Others</b></summary>
+<p>
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |

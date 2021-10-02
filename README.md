@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/Aghajari/community](https://badges.gitter.im/Aghajari/community.svg)](https://gitter.im/Aghajari/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<details><summary><b>Android</b></summary>
+<details><summary><b>Android Libraries</b></summary>
 <p>
   
 |Name|Version|Description|
@@ -20,7 +20,7 @@
 
 </p></details>
   
-<details><summary><b>iOS</b></summary>
+<details><summary><b>iOS Libraries</b></summary>
 <p>
   
 |Name|Version|Description|

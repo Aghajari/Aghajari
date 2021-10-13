@@ -16,7 +16,6 @@
 | [AXParallelImageView](https://github.com/Aghajari/AXParallelImageView)|1.0.0|Parallel Line Collage ImageView.|
 | [AXSpannableText](https://github.com/Aghajari/AXSpannableText)|1.0.0|Supports Hashtag(#), Mention(@), URLs, Phone, Email, Markdown,...in all TextView widgets|
 | [AXPowerView](https://github.com/Aghajari/AXPowerView)|1.0.0|an Android PowerView with awesome animations and circular loading|
-| [AXWaveAnimation](https://github.com/Aghajari/AXWaveAnimation)|1.0.0|Wave/Bubble animation for recording or playing audio using the amplitude of the voice|
 
 </p></details>
   

@@ -34,6 +34,7 @@
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
+| [PseudoCode](https://github.com/Aghajari/PseudoCode)|---|Simple PseudoCode Reader, Parser and Compiler!|
 | [InspectElement](https://github.com/Aghajari/InspectElement)|---|Inspection tools for native android apps (Practice)|
 | [JSSoup (node.js)](https://github.com/Aghajari/JSSoup)|1.0.0|Fast and reliable HTML DOM parser library for JavaScript, node.js.|
 | [AdMob-TgBot](https://github.com/Aghajari/AdMob-TgBot)|1.0.0|The AdMob-TgBot allows publishers to get information about their AdMob account by using their own telegram bot.|

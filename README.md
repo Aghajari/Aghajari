@@ -10,7 +10,7 @@
 | [AXAnimation](https://github.com/Aghajari/AXAnimation)|1.0.1|AXAnimation is an Android Library which can simply animate views and everything!|
 | [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|1.4.0|an advanced library which adds emoji,sticker,... support to your Android application|
 | [AXMemojiView](https://github.com/Aghajari/AXMemojiView)|1.1.0|a new page for AXEmojiView which shows memoji just like stickers|
-| [AXrLottie](https://github.com/Aghajari/AXrLottie)|1.2.0|AXrLottie ([rlottie](https://github.com/Samsung/rlottie)) Renders animations and vectors exported in the bodymovin JSON format.|
+| [AXrLottie](https://github.com/Aghajari/AXrLottie)|1.3.0|AXrLottie ([rlottie](https://github.com/Samsung/rlottie)) Renders animations and vectors exported in the bodymovin JSON format.|
 | [AXGraphView](https://github.com/Aghajari/AXGraphView)|1.1.0|AXGraphView creates zoomable and scrollable graphs.|
 | [ZoomHelper](https://github.com/Aghajari/ZoomHelper)|1.1.0|ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
 | [AXParallelImageView](https://github.com/Aghajari/AXParallelImageView)|1.0.0|Parallel Line Collage ImageView.|

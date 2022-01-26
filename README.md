@@ -7,14 +7,7 @@
 
 **CHECK OUT** [**One Line Art**](https://github.com/Aghajari/One-Line-Art)
 
-<br>
-
-<img src="https://github.com/Aghajari/SavedAlgorithms/blob/main/Christmas/output.gif" alt="Christmas" title="Christmas" width="250" align="left" />
 <br><br>
-
-[**MERRY CHRISTMAS 2022**](https://github.com/Aghajari/SavedAlgorithms/blob/main/Christmas)
-
-<br><br><br><br>
 
 <details><summary><b>Android Libraries</b></summary>
 <p>

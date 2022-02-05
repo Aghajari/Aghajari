@@ -43,6 +43,7 @@
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
+| [Mr. Jack](https://github.com/Aghajari/Mr.Jack)|---|Mr. Jack Board Game (C)|
 | [SimpleChart](https://github.com/Aghajari/SimpleChart)|---|Simple Line, Circle, Bar chart for Android|
 | [PseudoCode](https://github.com/Aghajari/PseudoCode)|---|Simple PseudoCode Reader, Parser and Compiler!|
 | [InspectElement](https://github.com/Aghajari/InspectElement)|---|Inspection tools for native android apps (Practice)|

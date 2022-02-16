@@ -43,6 +43,7 @@
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
+| [MathParser](https://github.com/Aghajari/MathParser)|1.0.0|A simple but powerful open-source math tool that parses and evaluates algebraic expressions (Java)|
 | [Mr. Jack](https://github.com/Aghajari/Mr.Jack)|---|Mr. Jack Board Game (C)|
 | [SimpleChart](https://github.com/Aghajari/SimpleChart)|---|Simple Line, Circle, Bar chart for Android|
 | [PseudoCode](https://github.com/Aghajari/PseudoCode)|---|Simple PseudoCode Reader, Parser and Compiler!|

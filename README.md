@@ -40,8 +40,13 @@
 <details><summary><b>Others</b></summary>
 <p>
   
-[SavedAlgorithms](https://github.com/Aghajari/SavedAlgorithms)
+- [AP-FinalProject](https://github.com/Aghajari/AP-FinalProject)<br>
+A messaging social platform based on Discord for Desktop and Android.
+- [SavedAlgorithms](https://github.com/Aghajari/SavedAlgorithms)
+
   
+<br>
+
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
 | [OneLineArt](https://github.com/Aghajari/One-Line-Art)|---|One-Line Art with Python|

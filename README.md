@@ -2,10 +2,10 @@
 
 [![Join the chat at https://gitter.im/Aghajari/community](https://badges.gitter.im/Aghajari/community.svg)](https://gitter.im/Aghajari/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<img src="https://github.com/Aghajari/AP-FinalProject/blob/main/images/1.png" alt="XmlByPass" title="XmlByPass" width="250" align="left" />
+<img src="https://github.com/Aghajari/Chess/blob/main/images/main.jpg" alt="Chess" title="Chess" width="120" align="left" />
 <br><br>
 
-**CHECK OUT** [**AP-FinalProject**](https://github.com/Aghajari/AP-FinalProject/)
+**CHECK OUT** [**Chess**](https://github.com/Aghajari/Chess)
 
 <br><br>
 
@@ -40,7 +40,9 @@
 
 <details><summary><b>Others</b></summary>
 <p>
-  
+
+- [Chess](https://github.com/Aghajari/Chess)<br>
+A simple android chess app that follows FIDE standards.
 - [AP-FinalProject](https://github.com/Aghajari/AP-FinalProject)<br>
 A messaging social platform based on Discord for Desktop and Android.
 - [SavedAlgorithms](https://github.com/Aghajari/SavedAlgorithms)

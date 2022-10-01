@@ -11,6 +11,9 @@
 
 <details><summary><b>Android Libraries</b></summary>
 <p>
+
+- [OpWear-Cam](https://github.com/Aghajari/OpWear-Cam)<br>
+Communicating between Wear OS and Android devic and a sample of displaying real-time camera on the watch.
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |

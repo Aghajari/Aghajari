@@ -7,7 +7,7 @@
 
 **CHECK OUT** [**LogicalCircuitEmulator**](https://github.com/Aghajari/LogicalCircuitEmulator)
 
-<br><br>
+<br><br><br><br>
 
 <details><summary><b>Android Libraries</b></summary>
 <p>

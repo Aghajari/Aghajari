@@ -2,10 +2,10 @@
 
 [![Join the chat at https://gitter.im/Aghajari/community](https://badges.gitter.im/Aghajari/community.svg)](https://gitter.im/Aghajari/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<img src="https://github.com/Aghajari/Chess/blob/main/images/main.jpg" alt="Chess" title="Chess" width="120" align="left" />
+<img src="https://github.com/Aghajari/LogicalCircuitEmulator/raw/main/Images/1.png" alt="Chess" title="Chess" width="300" align="left" />
 <br><br>
 
-**CHECK OUT** [**Chess**](https://github.com/Aghajari/Chess)
+**CHECK OUT** [**LogicalCircuitEmulator**](https://github.com/Aghajari/LogicalCircuitEmulator)
 
 <br><br>
 
@@ -44,6 +44,8 @@ Communicating between Wear OS and Android devic and a sample of displaying real-
 <details><summary><b>Others</b></summary>
 <p>
 
+- [LogicalCircuitEmulator](https://github.com/Aghajari/LogicalCircuitEmulator)<br>
+A CAD tool for logic circuits.
 - [Chess](https://github.com/Aghajari/Chess)<br>
 A simple android chess app that follows FIDE standards.
 - [AP-FinalProject](https://github.com/Aghajari/AP-FinalProject)<br>

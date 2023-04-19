@@ -2,12 +2,18 @@
 
 [![Join the chat at https://gitter.im/Aghajari/community](https://badges.gitter.im/Aghajari/community.svg)](https://gitter.im/Aghajari/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+<!--
+
 <img src="https://github.com/Aghajari/LogicalCircuit/raw/main/Images/1.png" alt="Chess" title="Chess" width="300" align="left" />
 <br><br>
 
 **CHECK OUT** [**LogicalCircuit**](https://github.com/Aghajari/LogicalCircuit)
 
 <br><br><br><br><br><br>
+
+-->
+
+**CHECK OUT** [**AutoAnimate**](https://github.com/Aghajari/AutoAnimate)
 
 <details><summary><b>Android Libraries</b></summary>
 <p>
@@ -17,6 +23,7 @@ Communicating between Wear OS and Android devic and a sample of displaying real-
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
+| [AutoAnimate](https://github.com/Aghajari/AutoAnimate)|1.0.2|AutoAnimate is a custom Shared Element Transition that automatically animates your views based on Figma Smart Animate.|
 | [AXPathLoadingView](https://github.com/Aghajari/AXPathLoadingView)|1.0.1|A simple android view to create loading with a Path.|
 | [XmlByPass](https://github.com/Aghajari/XmlByPass)|1.0.1|Get the Highest Android UI performance! XmlByPass is an annotationProcessor library for Android which auto generates the java code of your xml layouts in Source level (before compile)|
 | [AXAnimation](https://github.com/Aghajari/AXAnimation)|1.0.1|AXAnimation is an Android Library which can simply animate views and everything!|

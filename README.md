@@ -13,7 +13,7 @@
 
 -->
 
-**CHECK OUT** [**LazySwipeCards**](https://github.com/Aghajari/LazySwipeCards)
+**CHECK OUT** [**AnnotatedText**](https://github.com/Aghajari/AnnotatedText)
 
 <details><summary><b>Android Libraries</b></summary>
 <p>
@@ -23,6 +23,7 @@ Communicating between Wear OS and Android devic and a sample of displaying real-
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
+| [AnnotatedText](https://github.com/Aghajari/AnnotatedText)|1.0.0|A Jetpack Compose library to fully convert Android's Spanned into AnnotatedString|
 | [LazySwipeCards](https://github.com/Aghajari/LazySwipeCards)|1.0.0|LazySwipeCards is a card swiping Jetpack Compose library.|
 | [AutoAnimate](https://github.com/Aghajari/AutoAnimate)|1.0.2|AutoAnimate is a custom Shared Element Transition that automatically animates your views based on Figma Smart Animate.|
 | [AXPathLoadingView](https://github.com/Aghajari/AXPathLoadingView)|1.0.1|A simple android view to create loading with a Path.|

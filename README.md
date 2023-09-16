@@ -13,7 +13,19 @@
 
 -->
 
-**CHECK OUT** [**AnnotatedText**](https://github.com/Aghajari/AnnotatedText)
+**CHECK OUT** [**Flexbox-Compose**](https://github.com/Aghajari/Flexbox-Compose)
+
+<details><summary><b>Android Jetpack Compose</b></summary>
+<p>
+  
+|Name|Version|Description|
+| :---------------- | :----------------: | :---------------- |
+| [Flexbox](https://github.com/Aghajari/Flexbox-Compose)|1.0.0|A Jetpack Compose layout that places its children in a way that CSS Flexible Box Layout Module does.|
+| [AnimatedChart](https://github.com/Aghajari/AnimatedChart)|-----|A custom animated circle chart with Jetpack Compose.|
+| [AnnotatedText](https://github.com/Aghajari/AnnotatedText)|1.0.0|A Jetpack Compose library to fully convert Android's Spanned into AnnotatedString.|
+| [LazySwipeCards](https://github.com/Aghajari/LazySwipeCards)|1.0.0|LazySwipeCards is a card swiping Jetpack Compose library.|
+
+</p></details>
 
 <details><summary><b>Android Libraries</b></summary>
 <p>
@@ -23,8 +35,6 @@ Communicating between Wear OS and Android devic and a sample of displaying real-
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
-| [AnnotatedText](https://github.com/Aghajari/AnnotatedText)|1.0.0|A Jetpack Compose library to fully convert Android's Spanned into AnnotatedString|
-| [LazySwipeCards](https://github.com/Aghajari/LazySwipeCards)|1.0.0|LazySwipeCards is a card swiping Jetpack Compose library.|
 | [AutoAnimate](https://github.com/Aghajari/AutoAnimate)|1.0.2|AutoAnimate is a custom Shared Element Transition that automatically animates your views based on Figma Smart Animate.|
 | [AXPathLoadingView](https://github.com/Aghajari/AXPathLoadingView)|1.0.1|A simple android view to create loading with a Path.|
 | [XmlByPass](https://github.com/Aghajari/XmlByPass)|1.0.1|Get the Highest Android UI performance! XmlByPass is an annotationProcessor library for Android which auto generates the java code of your xml layouts in Source level (before compile)|

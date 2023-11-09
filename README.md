@@ -13,14 +13,14 @@
 
 -->
 
-**CHECK OUT** [**Flexbox-Compose**](https://github.com/Aghajari/Flexbox-Compose)
+**CHECK OUT** [**LazyFlowLayout**](https://github.com/Aghajari/LazyFlowLayout)
 
 <details><summary><b>Android Jetpack Compose</b></summary>
 <p>
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
-| [Flexbox](https://github.com/Aghajari/Flexbox-Compose)|1.0.0|A Jetpack Compose layout that places its children in a way that CSS Flexible Box Layout Module does.|
+| [LazyFlowLayout](https://github.com/Aghajari/LazyFlowLayout)|1.1.0|A Jetpack Compose layout that places its children in a way that CSS Flexible Box Layout Module does.|
 | [AnimatedChart](https://github.com/Aghajari/AnimatedChart)|-----|A custom animated circle chart with Jetpack Compose.|
 | [AnnotatedText](https://github.com/Aghajari/AnnotatedText)|1.0.0|A Jetpack Compose library to fully convert Android's Spanned into AnnotatedString.|
 | [LazySwipeCards](https://github.com/Aghajari/LazySwipeCards)|1.0.0|LazySwipeCards is a card swiping Jetpack Compose library.|

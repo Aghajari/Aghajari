@@ -1,8 +1,7 @@
+<!--
 <a href="https://github.com/Aghajari"><img alt="LCoders | AmirHosseinAghajari" src="https://user-images.githubusercontent.com/30867537/91563048-7738f400-e953-11ea-89f9-5d0f42deda8f.jpg"></a>
 
 [![Join the chat at https://gitter.im/Aghajari/community](https://badges.gitter.im/Aghajari/community.svg)](https://gitter.im/Aghajari/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-<!--
 
 <img src="https://github.com/Aghajari/LogicalCircuit/raw/main/Images/1.png" alt="Chess" title="Chess" width="300" align="left" />
 <br><br>
@@ -12,6 +11,18 @@
 <br><br><br><br><br><br>
 
 -->
+
+# Hello
+I'm AmirHossein Aghajari, an Android developer who loves building cool stuff.
+
+## Let's Connect!
+Need a coding companion or want to discuss the latest in Android tech? Hit me up:
+
+<a href="https://www.linkedin.com/in/amir-aghajari/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=Linkedin&flat-square&logoColor=white"></a>
+<a href="https://t.me/LCoders/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
+<a href="mailto:amirhossein.aghajari.82@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
+
+## What's New in My Lab?
 
 **CHECK OUT** [**LazyFlowLayout**](https://github.com/Aghajari/LazyFlowLayout)
 
@@ -23,7 +34,7 @@
 | [LazyFlowLayout](https://github.com/Aghajari/LazyFlowLayout)|1.1.0|A Jetpack Compose layout that places its children in a way that CSS Flexible Box Layout Module does.|
 | [AnimatedChart](https://github.com/Aghajari/AnimatedChart)|-----|A custom animated circle chart with Jetpack Compose.|
 | [AnnotatedText](https://github.com/Aghajari/AnnotatedText)|1.0.0|A Jetpack Compose library to fully convert Android's Spanned into AnnotatedString.|
-| [LazySwipeCards](https://github.com/Aghajari/LazySwipeCards)|1.0.0|LazySwipeCards is a card swiping Jetpack Compose library.|
+| [LazySwipeCards](https://github.com/Aghajari/LazySwipeCards)|1.0.1|LazySwipeCards is a card swiping Jetpack Compose library.|
 
 </p></details>
 
@@ -103,10 +114,6 @@ A messaging social platform based on Discord for Desktop and Android.
     <br>
     <b>AmirHosseinAghajari</b>
     <br>
-    <br>
-    <a href="https://www.instagram.com/amirhossein_aghajari/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&flat-square&logoColor=white"></a>
-    <a href="https://t.me/LCoders/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
-    <a href="mailto:amirhossein.aghajari.82@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
   </div>
 </div>
 

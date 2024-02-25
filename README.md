@@ -13,7 +13,7 @@
 -->
 
 # Hello
-I'm AmirHossein Aghajari, an Android developer who loves building cool stuff.
+I'm AmirHossein Aghajari, Android Engineer who loves building cool stuff.
 
 ## Let's Connect!
 Need a coding companion or want to discuss the latest in Android tech? Hit me up:

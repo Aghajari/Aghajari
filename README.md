@@ -18,7 +18,7 @@ I'm AmirHossein Aghajari, an Android developer who loves building cool stuff.
 ## Let's Connect!
 Need a coding companion or want to discuss the latest in Android tech? Hit me up:
 
-<a href="https://www.linkedin.com/in/amir-aghajari/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=Linkedin&flat-square&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/amir-aghajari/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=Linkedin&style=flat-square&logoColor=white"></a>
 <a href="https://t.me/LCoders/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
 <a href="mailto:amirhossein.aghajari.82@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
 

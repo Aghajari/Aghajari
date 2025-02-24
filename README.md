@@ -31,7 +31,7 @@ Need a coding companion or want to discuss the latest in Android tech? Hit me up
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
-| [ComposeLayoutAnimation](https://github.com/Aghajari/ComposeLayoutAnimation)|1.0.0|A Jetpack Compose library equivalent to ViewGroup's layoutAnimation, enabling staggered entrance animations for layout children.|
+| [ComposeLayoutAnimation](https://github.com/Aghajari/ComposeLayoutAnimation)|1.0.1|A Jetpack Compose library equivalent to ViewGroup's layoutAnimation, enabling staggered entrance animations for layout children.|
 | [LazyFlowLayout](https://github.com/Aghajari/LazyFlowLayout)|1.1.0|A Jetpack Compose layout that places its children in a way that CSS Flexible Box Layout Module does.|
 | [AnimatedChart](https://github.com/Aghajari/AnimatedChart)|-----|A custom animated circle chart with Jetpack Compose.|
 | [AnnotatedText](https://github.com/Aghajari/AnnotatedText)|1.0.0|A Jetpack Compose library to fully convert Android's Spanned into AnnotatedString.|

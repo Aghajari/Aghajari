@@ -1,5 +1,5 @@
 <!--
-<a href="https://github.com/Aghajari"><img alt="LCoders | AmirHosseinAghajari" src="https://user-images.githubusercontent.com/30867537/91563048-7738f400-e953-11ea-89f9-5d0f42deda8f.jpg"></a>
+<a href="https://github.com/Aghajari"><img alt="AmirHosseinAghajari" src="https://user-images.githubusercontent.com/30867537/91563048-7738f400-e953-11ea-89f9-5d0f42deda8f.jpg"></a>
 
 [![Join the chat at https://gitter.im/Aghajari/community](https://badges.gitter.im/Aghajari/community.svg)](https://gitter.im/Aghajari/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -19,8 +19,9 @@ I'm AmirHossein Aghajari, Android Engineer who loves building cool stuff.
 Need a coding companion or want to discuss the latest in Android tech? Hit me up:
 
 <a href="https://www.linkedin.com/in/amir-aghajari/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=Linkedin&style=flat-square&logoColor=white"></a>
-<a href="https://t.me/LCoders/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
+<a href="https://t.me/theAghajari/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
 <a href="mailto:amirhossein.aghajari.82@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
+<a href="https://medium.com/@aghajari"><img src="https://img.shields.io/static/v1?label=Medium&message=%20&color=black&logo=medium&style=flat-square&logoColor=white"></a>
 
 ## What's New in My Lab?
 
